@@ -14,9 +14,10 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test"
+    "test": "react-scripts test",
+    "deploy:simulate": "C:/Users/alien/Desktop/DEV/CI_CD/github-actions-workshop/scripts/simulate-deployment.sh"
   },
-  "engines" : { 
+  "engines" : {
     "npm" : "9.8.1",
     "node" : "18.18.0"
   },
